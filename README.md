@@ -47,7 +47,7 @@ Here's how our project is looking right now:
 ## Issue fix 1.
 
 Laravel has loaded, but Vite is trying to access files from the root directory **(This wouldn't be an issue, if you would be making SPA)**
-<img style="width:100%;" src="https://github.com/Skrazzo/inertia-vite-react-laravel/assets/58330666/4493bdf3-cc13-423b-b783-20f30878cbc3" />
+<img style="width:100%;" src="https://github.com/Skrazzo/Inertia-starter-kits/assets/58330666/270a0fae-6ee0-4fd2-9da9-779d05d15475" />
 
 
 
@@ -77,7 +77,7 @@ npm run build
 ## Issue fix 2.
 
 Now when first issue is fixed, our compiled files are executing, but our link is duplicating.
-<img style="width:100%;" src="https://github.com/Skrazzo/inertia-vite-react-laravel/assets/58330666/ffb63e27-ac1d-4463-91ac-8907a50b07f1" />
+<img style="width:100%;" src="https://github.com/Skrazzo/Inertia-starter-kits/assets/58330666/471232d5-9329-4f40-9fee-7172f7ad619a" />
 
 
 To fix this you will need to edit to this file:
