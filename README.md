@@ -39,5 +39,5 @@ That's all, for front-end you will need to run Vite, with `npm run dev` and back
 ## v1
 * Created two Laravel and Inertia versions, one is vanilla where two frameworks are just connected together. Second one has the most basic authentication system with routes /login, /register and /dashboard, and all User account logic is stored in UserController file
 * Added 'auth' variable to every inertia render, so that you can access logged in user information right in your component.
-* Added [tighten/ziggy](https://github.com/tighten/ziggy) and @routes to the app.blade.php, so now you can access all laravel ->name('login') routes in React component
+* Added [tighten/ziggy](https://github.com/tighten/ziggy) and @routes to the app.blade.php, so now you can access all laravel ->name('') routes in React component
 * Modified User modal and user table migration
